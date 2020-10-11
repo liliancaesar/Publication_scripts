@@ -1,0 +1,280 @@
+Month,Colony,Plant_family,Percentage
+Oct,BP a,Asteraceae,0.317
+Oct,BP a,Begoniaceae,0
+Oct,BP a,Fabaceae,0.317
+Oct,BP a,Melastomataceae,0
+Oct,BP a,Moraceae,0
+Oct,BP a,Myrtaceae,99.366
+Oct,BP a,Salicaceae,0
+Oct,BP a,Solanaceae,0
+Oct,BP a,Others,0
+Feb,BP b,Asteraceae,0.34
+Feb,BP b,Begoniaceae,0
+Feb,BP b,Fabaceae,95.076
+Feb,BP b,Melastomataceae,0
+Feb,BP b,Moraceae,0
+Feb,BP b,Myrtaceae,4.584
+Feb,BP b,Salicaceae,0
+Feb,BP b,Solanaceae,0
+Feb,BP b,Others,0
+Jan,BP b,Asteraceae,11.632
+Jan,BP b,Begoniaceae,2.251
+Jan,BP b,Fabaceae,13.696
+Jan,BP b,Melastomataceae,0
+Jan,BP b,Moraceae,0
+Jan,BP b,Myrtaceae,71.107
+Jan,BP b,Salicaceae,0
+Jan,BP b,Solanaceae,1.313
+Jan,BP b,Others,0
+Mar,BP b,Asteraceae,10.998
+Mar,BP b,Begoniaceae,0
+Mar,BP b,Fabaceae,85.618
+Mar,BP b,Melastomataceae,0
+Mar,BP b,Moraceae,0
+Mar,BP b,Myrtaceae,3.215
+Mar,BP b,Salicaceae,0
+Mar,BP b,Solanaceae,0
+Mar,BP b,Others,0.169
+Nov,BP b,Asteraceae,0
+Nov,BP b,Begoniaceae,18.674
+Nov,BP b,Fabaceae,0.135
+Nov,BP b,Melastomataceae,0
+Nov,BP b,Moraceae,0
+Nov,BP b,Myrtaceae,73.613
+Nov,BP b,Salicaceae,0
+Nov,BP b,Solanaceae,7.578
+Nov,BP b,Others,0
+Oct,BP b,Asteraceae,0
+Oct,BP b,Begoniaceae,5.616
+Oct,BP b,Fabaceae,0.312
+Oct,BP b,Melastomataceae,0
+Oct,BP b,Moraceae,0
+Oct,BP b,Myrtaceae,94.072
+Oct,BP b,Salicaceae,0
+Oct,BP b,Solanaceae,0
+Oct,BP b,Others,0
+Sep,BP b,Asteraceae,0.225
+Sep,BP b,Begoniaceae,0
+Sep,BP b,Fabaceae,2.472
+Sep,BP b,Melastomataceae,8.315
+Sep,BP b,Moraceae,10.337
+Sep,BP b,Myrtaceae,52.36
+Sep,BP b,Salicaceae,3.596
+Sep,BP b,Solanaceae,22.022
+Sep,BP b,Others,0.674
+Mar,BP c,Asteraceae,0
+Mar,BP c,Begoniaceae,0
+Mar,BP c,Fabaceae,67.537
+Mar,BP c,Melastomataceae,0
+Mar,BP c,Moraceae,0
+Mar,BP c,Myrtaceae,32.463
+Mar,BP c,Salicaceae,0
+Mar,BP c,Solanaceae,0
+Mar,BP c,Others,0
+Mar,BP d,Asteraceae,0.145
+Mar,BP d,Begoniaceae,0
+Mar,BP d,Fabaceae,96.952
+Mar,BP d,Melastomataceae,0
+Mar,BP d,Moraceae,0
+Mar,BP d,Myrtaceae,2.758
+Mar,BP d,Salicaceae,0
+Mar,BP d,Solanaceae,0
+Mar,BP d,Others,0.145
+Mar,BP e,Asteraceae,0
+Mar,BP e,Begoniaceae,0
+Mar,BP e,Fabaceae,76.599
+Mar,BP e,Melastomataceae,0
+Mar,BP e,Moraceae,0
+Mar,BP e,Myrtaceae,23.245
+Mar,BP e,Salicaceae,0
+Mar,BP e,Solanaceae,0
+Mar,BP e,Others,0.156
+Mar,BP f,Asteraceae,0
+Mar,BP f,Begoniaceae,0
+Mar,BP f,Fabaceae,87.246
+Mar,BP f,Melastomataceae,0
+Mar,BP f,Moraceae,0
+Mar,BP f,Myrtaceae,12.569
+Mar,BP f,Salicaceae,0
+Mar,BP f,Solanaceae,0
+Mar,BP f,Others,0.185
+Feb,BP1,Asteraceae,0.189
+Feb,BP1,Begoniaceae,0
+Feb,BP1,Fabaceae,99.244
+Feb,BP1,Melastomataceae,0
+Feb,BP1,Moraceae,0
+Feb,BP1,Myrtaceae,0.378
+Feb,BP1,Salicaceae,0
+Feb,BP1,Solanaceae,0
+Feb,BP1,Others,0.189
+Mar,BP1,Asteraceae,0.181
+Mar,BP1,Begoniaceae,0
+Mar,BP1,Fabaceae,71.661
+Mar,BP1,Melastomataceae,0
+Mar,BP1,Moraceae,0
+Mar,BP1,Myrtaceae,28.159
+Mar,BP1,Salicaceae,0
+Mar,BP1,Solanaceae,0
+Mar,BP1,Others,0
+Nov,BP1,Asteraceae,0
+Nov,BP1,Begoniaceae,0
+Nov,BP1,Fabaceae,0.176
+Nov,BP1,Melastomataceae,0
+Nov,BP1,Moraceae,0
+Nov,BP1,Myrtaceae,88.204
+Nov,BP1,Salicaceae,0
+Nov,BP1,Solanaceae,11.444
+Nov,BP1,Others,0.176
+Oct,BP1,Asteraceae,0
+Oct,BP1,Begoniaceae,0.508
+Oct,BP1,Fabaceae,0.338
+Oct,BP1,Melastomataceae,0.169
+Oct,BP1,Moraceae,0
+Oct,BP1,Myrtaceae,98.646
+Oct,BP1,Salicaceae,0
+Oct,BP1,Solanaceae,0.169
+Oct,BP1,Others,0.169
+Sep,BP1,Asteraceae,0
+Sep,BP1,Begoniaceae,0
+Sep,BP1,Fabaceae,0
+Sep,BP1,Melastomataceae,67.75
+Sep,BP1,Moraceae,0
+Sep,BP1,Myrtaceae,29.75
+Sep,BP1,Salicaceae,0
+Sep,BP1,Solanaceae,2
+Sep,BP1,Others,0.5
+Nov,BP2,Asteraceae,0.386
+Nov,BP2,Begoniaceae,0
+Nov,BP2,Fabaceae,0.193
+Nov,BP2,Melastomataceae,0
+Nov,BP2,Moraceae,0
+Nov,BP2,Myrtaceae,98.263
+Nov,BP2,Salicaceae,0
+Nov,BP2,Solanaceae,0.965
+Nov,BP2,Others,0.193
+Oct,BP2,Asteraceae,0.186
+Oct,BP2,Begoniaceae,0
+Oct,BP2,Fabaceae,0.371
+Oct,BP2,Melastomataceae,0
+Oct,BP2,Moraceae,0
+Oct,BP2,Myrtaceae,99.072
+Oct,BP2,Salicaceae,0
+Oct,BP2,Solanaceae,0.186
+Oct,BP2,Others,0.186
+Nov,PA g,Asteraceae,0.15
+Nov,PA g,Begoniaceae,0
+Nov,PA g,Fabaceae,2.399
+Nov,PA g,Melastomataceae,0
+Nov,PA g,Moraceae,0
+Nov,PA g,Myrtaceae,93.553
+Nov,PA g,Salicaceae,0
+Nov,PA g,Solanaceae,3.748
+Nov,PA g,Others,0.15
+Oct,PA g,Asteraceae,0.166
+Oct,PA g,Begoniaceae,0
+Oct,PA g,Fabaceae,0.166
+Oct,PA g,Melastomataceae,0
+Oct,PA g,Moraceae,0
+Oct,PA g,Myrtaceae,99.168
+Oct,PA g,Salicaceae,0
+Oct,PA g,Solanaceae,0.333
+Oct,PA g,Others,0.166
+Sep,PA g,Asteraceae,0.66
+Sep,PA g,Begoniaceae,0
+Sep,PA g,Fabaceae,0
+Sep,PA g,Melastomataceae,2.31
+Sep,PA g,Moraceae,0
+Sep,PA g,Myrtaceae,93.729
+Sep,PA g,Salicaceae,0
+Sep,PA g,Solanaceae,3.3
+Sep,PA g,Others,0
+Mar,PA1,Asteraceae,0
+Mar,PA1,Begoniaceae,0
+Mar,PA1,Fabaceae,98.422
+Mar,PA1,Melastomataceae,0
+Mar,PA1,Moraceae,0
+Mar,PA1,Myrtaceae,1.291
+Mar,PA1,Salicaceae,0
+Mar,PA1,Solanaceae,0.143
+Mar,PA1,Others,0.143
+Nov,PA1,Asteraceae,0.333
+Nov,PA1,Begoniaceae,0
+Nov,PA1,Fabaceae,3.667
+Nov,PA1,Melastomataceae,0
+Nov,PA1,Moraceae,0
+Nov,PA1,Myrtaceae,95.833
+Nov,PA1,Salicaceae,0.167
+Nov,PA1,Solanaceae,0
+Nov,PA1,Others,0
+Oct,PA1,Asteraceae,0.177
+Oct,PA1,Begoniaceae,0
+Oct,PA1,Fabaceae,0.355
+Oct,PA1,Melastomataceae,0.355
+Oct,PA1,Moraceae,0
+Oct,PA1,Myrtaceae,98.404
+Oct,PA1,Salicaceae,0
+Oct,PA1,Solanaceae,0.532
+Oct,PA1,Others,0.177
+Sep,PA1,Asteraceae,0
+Sep,PA1,Begoniaceae,0
+Sep,PA1,Fabaceae,0
+Sep,PA1,Melastomataceae,0.245
+Sep,PA1,Moraceae,0
+Sep,PA1,Myrtaceae,99.51
+Sep,PA1,Salicaceae,0
+Sep,PA1,Solanaceae,0.245
+Sep,PA1,Others,0
+Mar,PA2,Asteraceae,0
+Mar,PA2,Begoniaceae,0
+Mar,PA2,Fabaceae,92.077
+Mar,PA2,Melastomataceae,0
+Mar,PA2,Moraceae,0
+Mar,PA2,Myrtaceae,7.787
+Mar,PA2,Salicaceae,0
+Mar,PA2,Solanaceae,0
+Mar,PA2,Others,0.137
+Nov,PA2,Asteraceae,0.185
+Nov,PA2,Begoniaceae,0
+Nov,PA2,Fabaceae,10.886
+Nov,PA2,Melastomataceae,0
+Nov,PA2,Moraceae,0
+Nov,PA2,Myrtaceae,88.376
+Nov,PA2,Salicaceae,0
+Nov,PA2,Solanaceae,0.369
+Nov,PA2,Others,0.185
+Oct,PA2,Asteraceae,0.356
+Oct,PA2,Begoniaceae,3.381
+Oct,PA2,Fabaceae,0.356
+Oct,PA2,Melastomataceae,0.712
+Oct,PA2,Moraceae,0
+Oct,PA2,Myrtaceae,94.484
+Oct,PA2,Salicaceae,0
+Oct,PA2,Solanaceae,0.712
+Oct,PA2,Others,0
+Feb,PA3,Asteraceae,0
+Feb,PA3,Begoniaceae,0
+Feb,PA3,Fabaceae,93.976
+Feb,PA3,Melastomataceae,0
+Feb,PA3,Moraceae,0
+Feb,PA3,Myrtaceae,5.852
+Feb,PA3,Salicaceae,0
+Feb,PA3,Solanaceae,0
+Feb,PA3,Others,0.172
+Jan,PA3,Asteraceae,0
+Jan,PA3,Begoniaceae,0
+Jan,PA3,Fabaceae,0.38
+Jan,PA3,Melastomataceae,0
+Jan,PA3,Moraceae,0
+Jan,PA3,Myrtaceae,99.241
+Jan,PA3,Salicaceae,0
+Jan,PA3,Solanaceae,0.19
+Jan,PA3,Others,0.19
+Mar,SL,Asteraceae,0.348
+Mar,SL,Begoniaceae,0
+Mar,SL,Fabaceae,81.739
+Mar,SL,Melastomataceae,0
+Mar,SL,Moraceae,0
+Mar,SL,Myrtaceae,17.217
+Mar,SL,Salicaceae,0
+Mar,SL,Solanaceae,0.174
+Mar,SL,Others,0.522

@@ -1,0 +1,39 @@
+Hierarchy,GO_term,Expression,DEGs
+BP,Lipid metabolic process,up,1
+BP,Lipid metabolic process,down,10
+BP,Positive regulation of BMP signaling pathway,up,0
+BP,Positive regulation of BMP signaling pathway,down,2
+BP,RNA modification,up,0
+BP,RNA modification,down,3
+BP,Fatty acid biosynthetic process,up,1
+BP,Fatty acid biosynthetic process,down,4
+BP,ATP transport,up,0
+BP,ATP transport,down,3
+BP,Peptidyl-tyrosine dephosphorylation,up,1
+BP,Peptidyl-tyrosine dephosphorylation,down,4
+CC,Integral component of membrane,up,4
+CC,Integral component of membrane,down,131
+CC,Membrane,up,5
+CC,Membrane,down,133
+CC,Early endosome,up,0
+CC,Early endosome,down,2
+MF,DNA binding,up,3
+MF,DNA binding,down,27
+MF,Oxidoreductase activity,up,1
+MF,Oxidoreductase activity,down,5
+MF,N-acetyl-beta-D-galactosaminidase activity,up,0
+MF,N-acetyl-beta-D-galactosaminidase activity,down,2
+MF,Pseudouridine synthase activity,up,0
+MF,Pseudouridine synthase activity,down,3
+MF,"Transferase activity, transferring glycosyl groups",up,0
+MF,"Transferase activity, transferring glycosyl groups",down,9
+MF,ATP transmembrane transporter activity,up,0
+MF,ATP transmembrane transporter activity,down,3
+MF,Lipid transporter activity,up,0
+MF,Lipid transporter activity,down,2
+MF,Phosphatidylinositol phospholipase C activity,up,0
+MF,Phosphatidylinositol phospholipase C activity,down,1
+MF,protein tyrosine phosphatase activity,up,1
+MF,protein tyrosine phosphatase activity,down,4
+MF,Iron ion binding,up,0
+MF,Iron ion binding,down,7
