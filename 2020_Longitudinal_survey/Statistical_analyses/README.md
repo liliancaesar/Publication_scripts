@@ -1,1 +1,1 @@
-Here are the R codes and inputs for all statistical analyses.
+Here are the R codes and input files for all statistical analyses.
